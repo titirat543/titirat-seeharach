@@ -1,0 +1,12 @@
+This folder contains the Java starter code for the CSCU9A2 assignment.
+
+It should be copied to a new folder in your file store, and a new BlueJ
+project built in the usual way.
+
+The program is incomplete, although works partially.
+
+Read the long comment at the start carefully - it explains what is to be done.
+
+Detailed assignment instructions will be issued separately.
+
+Good luck!
